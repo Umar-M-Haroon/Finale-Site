@@ -29,31 +29,31 @@ youtube_username                          :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+# features                                  :
 
-  - title                                 : Manage Chores and ease
-    description                           : Easily coordinate chores with roomates through personal reminders 
-    fontawesome_icon_name                 : magic
+#   # - title                                 : Manage Chores and ease
+#   #   description                           : Easily coordinate chores with roomates through personal reminders 
+#   #   fontawesome_icon_name                 : magic
     
-  - title                                 : Calendar and reminders support
-    description                           : Support for calendars and reminders
-    fontawesome_icon_name                 : mobile
+#   # - title                                 : Calendar and reminders support
+#   #   description                           : Support for calendars and reminders
+#   #   fontawesome_icon_name                 : mobile
 
-  - title                                 : Push Notifications
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+#   # - title                                 : Push Notifications
+#   #   description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+#   #   fontawesome_icon_name                 : play-circle
 
-  - title                                 : Siri Shortcuts
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+#   # - title                                 : Siri Shortcuts
+#   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+#   #   fontawesome_icon_name                 : sync
 
-  - title                                 : Venmo support
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+#   # - title                                 : Venmo support
+#   #   description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+#   #   fontawesome_icon_name                 : adjust
   
-  - title                                 : Featured Statistics
-    description                           : Support for charts and data to visualize home tasks
-    fontawesome_icon_name                 : star
+#   # - title                                 : Featured Statistics
+#   #   description                           : Support for charts and data to visualize home tasks
+#   #   fontawesome_icon_name                 : star
 
 
   
